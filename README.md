@@ -1,6 +1,5 @@
 <p align="center">
-<img src="<img width="487" height="341" alt="image" src="https://github.com/user-attachments/assets/9660f527-cbc6-4b86-a18d-d83c3526f603" />
-" alt="osTicket logo"/>
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
