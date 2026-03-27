@@ -48,10 +48,12 @@ Next, search Control Panel in the Windows search bar and run the program.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1035" height="580" alt="image" src="https://github.com/user-attachments/assets/8ce98859-ebec-438a-b5f9-7c472ded2f3b" />
+  
+<img width="269" height="90" alt="image" src="https://github.com/user-attachments/assets/075a7409-786f-448d-8bed-576b605487de" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Third, you can go to Uninstal a program and open it.
 </p>
 <br />
 </p>
