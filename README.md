@@ -75,7 +75,7 @@ The next step is to click on "Turn Windows features on or off"
 
 
 <p>
-After that, you can check "Internet Information Services". There is a plus to the left side that you can click and expand the category. Then you can click the plus next to World Wide Web Services, then the plus next to Application Development Features.
+After that, you can check "Internet Information Services". There is a plus to the left side that you can click and expand the category. Then you can click the plus next to World Wide Web Services, then the plus next to Application Development Features and select CGI.
 </p>
 <br />
 </p>
