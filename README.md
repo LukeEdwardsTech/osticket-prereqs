@@ -68,9 +68,9 @@ The next step is to click on "Turn Windows features on or off"
 
 <p>
 <img width="393" height="286" alt="image" src="https://github.com/user-attachments/assets/d541539c-b5f0-4824-83cb-20645ab2a01b" />
-  
+<p>
 <img width="378" height="197" alt="image" src="https://github.com/user-attachments/assets/83c59ca5-178b-4616-bfc1-f24cfeeb5a01" />
-
+<p>
 <img width="370" height="234" alt="image" src="https://github.com/user-attachments/assets/f00ded46-7a51-4c25-90eb-23858a4fe58c" />
 
 
