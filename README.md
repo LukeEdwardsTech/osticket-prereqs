@@ -38,7 +38,8 @@ First, download the files from the following link on the device you would like o
 <br />
 
 <p>
-<img width="617" height="631" alt="image" src="https://github.com/user-attachments/assets/33c48930-db7c-4d42-8ae6-04c91030aa59" />
+<img width="726" height="630" alt="image" src="https://github.com/user-attachments/assets/64eefb69-c1bb-48b6-8fd9-2c9dda7e0429" />
+
 
 </p>
 <p>
