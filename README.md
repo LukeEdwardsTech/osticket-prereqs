@@ -31,6 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
+  <img width="194" height="44" alt="image" src="https://github.com/user-attachments/assets/9ed83504-380e-45fb-97ce-e007052f14a6" />
+
 First, download the files from the following link on the device you would like osTicket to be installed on. <a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0">osTicket-Installation-Files.zip</a>!</h1>
 </p>
 <br />
