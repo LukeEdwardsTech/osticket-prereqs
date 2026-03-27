@@ -27,7 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="794" height="197" alt="image" src="https://github.com/user-attachments/assets/f936c173-4343-4fc7-a286-16b08669766f" />
+
 </p>
 <p>
 First, download the files from the following link on the device you would like osTicket to be installed on. <a href="https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0">osTicket-Installation-Files.zip</a>!</h1>
