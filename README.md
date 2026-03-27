@@ -69,9 +69,11 @@ The next step is to click on "Turn Windows features on or off"
 <p>
 <img width="393" height="286" alt="image" src="https://github.com/user-attachments/assets/d541539c-b5f0-4824-83cb-20645ab2a01b" />
   <img width="378" height="197" alt="image" src="https://github.com/user-attachments/assets/83c59ca5-178b-4616-bfc1-f24cfeeb5a01" />
+    <img width="370" height="234" alt="image" src="https://github.com/user-attachments/assets/f00ded46-7a51-4c25-90eb-23858a4fe58c" />
+
 
 <p>
-After that, you can check "Internet Information Services". There is a plus to the left side that you can click and expand the category. Then you can click the plus next to World wide web services
+After that, you can check "Internet Information Services". There is a plus to the left side that you can click and expand the category. Then you can click the plus next to World Wide Web Services, then the plus next to Application Development Features.
 </p>
 <br />
 </p>
