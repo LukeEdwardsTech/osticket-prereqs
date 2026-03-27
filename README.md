@@ -40,7 +40,7 @@ First, download the files from the following link on the device you would like o
 
 </p>
 <p>
-Next, search Control Panel in the Windows search bar and run the program.
+Next, search "Control Panel" in the Windows search bar and run the program.
 </p>
 <br />
 
@@ -50,17 +50,17 @@ Next, search Control Panel in the Windows search bar and run the program.
 <img width="269" height="90" alt="image" src="https://github.com/user-attachments/assets/075a7409-786f-448d-8bed-576b605487de" />
 </p>
 <p>
-Third, you can go to Uninstal a program and open it.
+Third, you can go to "Uninstall a program" and open it.
 </p>
 <br />
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1037" height="587" alt="image" src="https://github.com/user-attachments/assets/816e544f-ab11-4b44-b700-3c60bca3849c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next step is to click on "Turn Windows features on or off"
 </p>
 <br />
 </p>
