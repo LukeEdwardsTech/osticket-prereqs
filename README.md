@@ -67,10 +67,11 @@ The next step is to click on "Turn Windows features on or off"
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="393" height="286" alt="image" src="https://github.com/user-attachments/assets/d541539c-b5f0-4824-83cb-20645ab2a01b" />
+  <img width="378" height="197" alt="image" src="https://github.com/user-attachments/assets/83c59ca5-178b-4616-bfc1-f24cfeeb5a01" />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After that, you can check "Internet Information Services". There is a plus to the left side that you can click and expand the category. Then you can click the plus next to World wide web services
 </p>
 <br />
 </p>
