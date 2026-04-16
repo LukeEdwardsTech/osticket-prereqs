@@ -161,13 +161,18 @@ When you get to this screen type "root" all lowercase in both boxes (typically y
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="412" height="339" alt="image" src="https://github.com/user-attachments/assets/fd9a51f0-c335-40f8-9c2c-3cd3548d7115" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="874" height="939" alt="image" src="https://github.com/user-attachments/assets/f8aebf9a-c9d5-4840-85b9-03f5183b940f" />
+<p>
+<img width="658" height="285" alt="image" src="https://github.com/user-attachments/assets/de6c91c5-f107-4db4-8e5e-ffe95fc6e33e" />
+
+Click the windows start menu and type "iis" and run the program shown as an administrator. Then click on the PHP Manager box as shown. Click "Register new PHP version" and click the three dots.
 </p>
 <br />
 
+<img width="472" height="185" alt="image" src="https://github.com/user-attachments/assets/e1f3b797-42d0-45da-b52b-bc1bab28305a" />
 
 
 <p>
