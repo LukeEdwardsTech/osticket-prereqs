@@ -182,7 +182,9 @@ Click the windows start menu and type "iis" and run the program shown as an admi
 <p>
 <img width="472" height="185" alt="image" src="https://github.com/user-attachments/assets/e1f3b797-42d0-45da-b52b-bc1bab28305a" />
 <p>
-Then click on the PHP Manager box as shown. Click "Register new PHP version" and click the three dots.
+<img width="396" height="436" alt="image" src="https://github.com/user-attachments/assets/92acf79e-d2ab-43a4-bb0f-ee357df3f3bb" />
+<p>
+Then click on the PHP Manager box as shown. Click "Register new PHP version" and click the three dots. Open the PHP folder in your C: drive and double click the "php-cgi" file.
 </p>
 <br />
 
