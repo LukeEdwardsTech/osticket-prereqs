@@ -83,10 +83,10 @@ After that, you can check "Internet Information Services". There is a plus to th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="409" height="198" alt="image" src="https://github.com/user-attachments/assets/e03b3822-9a83-4458-b224-496b1853682c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the file that we downloaded before and double click and install the PHPManager file.
 </p>
 <br />
 </p>
