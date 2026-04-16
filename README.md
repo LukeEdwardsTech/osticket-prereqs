@@ -189,7 +189,7 @@ Then click on the PHP Manager box as shown. Click "Register new PHP version" and
 <br />
 
 
-<a>
+<a id="top"></a>
 <p>
 <img width="284" height="423" alt="image" src="https://github.com/user-attachments/assets/230ababd-5fe0-4c8f-868f-4f4f1c3206c6" />
 </p>
@@ -218,7 +218,7 @@ Extract the osTicket zip folder into the same folder with all the files and open
 <p>
   <img width="399" height="206" alt="image" src="https://github.com/user-attachments/assets/9f41cf4c-6385-40e8-8c9d-87f0b7297c73" />
 
-We then have to open the folder location as shown in the picture, and copy the upload folder from the previous folder. Remane the upload folder to "osTicket". Then reload the IIS server as shown previously.<a id="here"></a>
+We then have to open the folder location as shown in the picture, and copy the upload folder from the previous folder. Remane the upload folder to "osTicket". Then reload the IIS server as shown previously.[Scroll Up](#top)
 </p>
 <br />
 
