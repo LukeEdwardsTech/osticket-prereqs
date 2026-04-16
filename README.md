@@ -218,7 +218,7 @@ Extract the osTicket zip folder into the same folder with all the files and open
 <p>
   <img width="399" height="206" alt="image" src="https://github.com/user-attachments/assets/9f41cf4c-6385-40e8-8c9d-87f0b7297c73" />
 
-We then have to open the folder location as shown in the picture, and copy the upload folder from the previous folder. Remane the upload folder to "osTicket".
+We then have to open the folder location as shown in the picture, and copy the upload folder from the previous folder. Remane the upload folder to "osTicket". Then reload the IIS server as shown previously.
 </p>
 <br />
 
