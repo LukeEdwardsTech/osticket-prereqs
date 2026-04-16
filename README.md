@@ -191,10 +191,11 @@ Then click on the PHP Manager box as shown. Click "Register new PHP version" and
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="284" height="423" alt="image" src="https://github.com/user-attachments/assets/230ababd-5fe0-4c8f-868f-4f4f1c3206c6" />
 </p>
+<img width="307" height="378" alt="image" src="https://github.com/user-attachments/assets/268bcd07-dd38-42dc-b7c7-dfdfe5739b7e" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we need to reload IIS, right click the osticket-vm and shown and click "Stop". Wait a couple seconds for it to stop and right click it again and click "Start"
 </p>
 <br />
 
