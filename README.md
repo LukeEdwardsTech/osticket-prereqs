@@ -164,7 +164,7 @@ When you get to this screen type "root" all lowercase in both boxes (typically y
 <img width="412" height="339" alt="image" src="https://github.com/user-attachments/assets/fd9a51f0-c335-40f8-9c2c-3cd3548d7115" />
 </p>
 <p>
-<img width="874" height="939" alt="image" src="https://github.com/user-attachments/assets/f8aebf9a-c9d5-4840-85b9-03f5183b940f" />
+<img width="860" height="574" alt="image" src="https://github.com/user-attachments/assets/fe01a518-de4e-45a4-bde4-3d645e30a54e" />
 <p>
 <img width="658" height="285" alt="image" src="https://github.com/user-attachments/assets/de6c91c5-f107-4db4-8e5e-ffe95fc6e33e" />
 
