@@ -172,8 +172,6 @@ Click the windows start menu and type "iis" and run the program shown as an admi
 </p>
 <br />
 
-<img width="472" height="185" alt="image" src="https://github.com/user-attachments/assets/e1f3b797-42d0-45da-b52b-bc1bab28305a" />
-
 
 
 <p>
