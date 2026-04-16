@@ -154,7 +154,7 @@ Then double click and install the MySQL file. When it asks what type of setup yo
 <img width="464" height="353" alt="image" src="https://github.com/user-attachments/assets/a4d0ac2b-f9a0-4826-946d-9f2f88316fe8" />
 </p>
 <p>
-When you get to this screen type "root" all lowercase in both boxes (typically you would not do this in real life but this is a demonstration)
+When you get to this screen type "root" all lowercase in both boxes (typically you would not do this in real life but this is a demonstration). Then just finish installing it and click "Execute"
 </p>
 <br />
 
