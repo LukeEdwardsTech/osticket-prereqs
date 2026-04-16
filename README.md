@@ -137,10 +137,12 @@ Double click and install the VC_redist file in the collected files
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="399" height="149" alt="image" src="https://github.com/user-attachments/assets/715020fa-a261-4846-b5c9-a684cf3d4440" />
+<p>
+<img width="452" height="354" alt="image" src="https://github.com/user-attachments/assets/f2c499fa-e675-4622-b962-c2c4c7b43589" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then double click and install the MySQL file. When it asks what type of setup you want to do, choose "Typical".
 </p>
 <br />
 
