@@ -142,7 +142,9 @@ Double click and install the VC_redist file in the collected files
 <img width="452" height="354" alt="image" src="https://github.com/user-attachments/assets/f2c499fa-e675-4622-b962-c2c4c7b43589" />
 </p>
 <p>
-Then double click and install the MySQL file. When it asks what type of setup you want to do, choose "Typical".
+<img width="460" height="348" alt="image" src="https://github.com/user-attachments/assets/b04195fd-ef29-4071-8476-d099e47af281" />
+<p>
+Then double click and install the MySQL file. When it asks what type of setup you want to do, choose "Typical". Launch the app and chose "Standard configuration".
 </p>
 <br />
 
