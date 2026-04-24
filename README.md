@@ -260,11 +260,13 @@ In this page there are 3 extensions that you need to enable by clicking them and
 
 
 <p>
+  <img width="462" height="245" alt="image" src="https://github.com/user-attachments/assets/d5a94bd5-0deb-4732-9da2-5c5d0a7a6725" />
+(Before)
 <img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/7bbd7200-6906-4751-9c3d-db146987d91a" />
-
+(After)
 </p>
 <p>
-Refresh the page and it should look like this with the extensions we enabled with a check mark next to them
+Refresh the page and it should look like this with the extensions we enabled with a check mark next to them 
 </p>
 <br />
 
