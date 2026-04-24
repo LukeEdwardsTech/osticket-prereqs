@@ -302,10 +302,10 @@ Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and renam
 <img width="276" height="74" alt="image" src="https://github.com/user-attachments/assets/b5a764bb-9be1-4a70-b567-ac6f729213e0" />
 <p>
 <img width="421" height="228" alt="image" src="https://github.com/user-attachments/assets/97d4aa24-367e-485b-a060-9aecdf48f963" />
-
-</p>
 <p>
-Click on "Select a principle" and type "Everyone"  and click "OK"
+<img width="832" height="421" alt="image" src="https://github.com/user-attachments/assets/ddd8389b-ce00-4b5b-8a79-0ae37cb4cd81" />
+<p>
+Click on "Select a principle", type "Everyone", click  ok,  click "Full control" and click ok
 </p>
 <br />
 
