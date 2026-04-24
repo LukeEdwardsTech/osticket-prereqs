@@ -277,6 +277,9 @@ Refresh the page and it should look like this with the extensions we enabled wit
 <img width="339" height="101" alt="image" src="https://github.com/user-attachments/assets/f01c7753-67a0-4b70-8b33-437084b67115" />
 <img width="108" height="65" alt="image" src="https://github.com/user-attachments/assets/e3899d1a-76ae-4a01-84f8-89ae24a6b223" />
 <img width="334" height="404" alt="image" src="https://github.com/user-attachments/assets/e6be30d7-2f4d-4605-a48e-e630c507f97f" />
+<img width="282" height="127" alt="image" src="https://github.com/user-attachments/assets/e8be199a-75e9-4bb5-961c-1f55ba40231e" />
+<img width="478" height="81" alt="image" src="https://github.com/user-attachments/assets/6f785231-a197-43fe-af2c-2bc4070a9454" />
+<img width="158" height="53" alt="image" src="https://github.com/user-attachments/assets/216085cb-3717-4d55-b1c2-18689c11fde5" />
 
 </p>
 <p>
@@ -286,10 +289,11 @@ Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and renam
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="276" height="74" alt="image" src="https://github.com/user-attachments/assets/b5a764bb-9be1-4a70-b567-ac6f729213e0" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on "Select a principle"
 </p>
 <br />
 
