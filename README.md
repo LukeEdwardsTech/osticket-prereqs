@@ -224,11 +224,12 @@ We then have to open the folder location as shown in the picture, and copy the u
 
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>\
+<img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/4a392883-b66b-4e68-93c7-c84a5e129f0d" />
 </p>
+<img width="793" height="743" alt="image" src="https://github.com/user-attachments/assets/487f2d24-6323-48cf-9994-88c21df1b82a" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Press the down arrow of osticket-vm, Sites, Default web site, and click on osTicket.  On the right side of the screen, there is a button that is called Browse. Click it and it should open a page in your preferred search engine. 
 </p>
 <br />
 
