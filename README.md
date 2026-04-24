@@ -300,10 +300,12 @@ Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and renam
 
 <p>
 <img width="276" height="74" alt="image" src="https://github.com/user-attachments/assets/b5a764bb-9be1-4a70-b567-ac6f729213e0" />
+<p>
+<img width="421" height="228" alt="image" src="https://github.com/user-attachments/assets/97d4aa24-367e-485b-a060-9aecdf48f963" />
 
 </p>
 <p>
-Click on "Select a principle"
+Click on "Select a principle" and type "Everyone" 
 </p>
 <br />
 
