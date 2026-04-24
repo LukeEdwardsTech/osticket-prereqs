@@ -273,12 +273,19 @@ Refresh the page and it should look like this with the extensions we enabled wit
 
 <p>
 <img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/ff9812a4-2b26-42d9-949a-159e990245cd" />
+<p>
 <img width="128" height="32" alt="image" src="https://github.com/user-attachments/assets/7a022fce-49d8-4c71-bf7b-fc4300e858b5" />
+<p>
 <img width="339" height="101" alt="image" src="https://github.com/user-attachments/assets/f01c7753-67a0-4b70-8b33-437084b67115" />
+<p>
 <img width="108" height="65" alt="image" src="https://github.com/user-attachments/assets/e3899d1a-76ae-4a01-84f8-89ae24a6b223" />
+<p>
 <img width="334" height="404" alt="image" src="https://github.com/user-attachments/assets/e6be30d7-2f4d-4605-a48e-e630c507f97f" />
+<p>
 <img width="282" height="127" alt="image" src="https://github.com/user-attachments/assets/e8be199a-75e9-4bb5-961c-1f55ba40231e" />
+<p>
 <img width="478" height="81" alt="image" src="https://github.com/user-attachments/assets/6f785231-a197-43fe-af2c-2bc4070a9454" />
+<p>
 <img width="158" height="53" alt="image" src="https://github.com/user-attachments/assets/216085cb-3717-4d55-b1c2-18689c11fde5" />
 
 </p>
