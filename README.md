@@ -350,8 +350,10 @@ Click "Skip", then "New". Type root in the User and Password and click "Open"
 <img width="436" height="266" alt="image" src="https://github.com/user-attachments/assets/e848aad0-abbf-4bec-950e-394deb8355d4" />
 
 </p>
+<img width="301" height="236" alt="image" src="https://github.com/user-attachments/assets/44ecc93d-e4c2-4977-876e-d0ca2a371243" />
+
 <p>
-Right click "Unnamed", hover over "Create new", and click "Database".
+Right click "Unnamed", hover over "Create new", and click "Database". Type "osTicket" in the Name section
 </p>
 <br />
 
