@@ -272,10 +272,12 @@ Refresh the page and it should look like this with the extensions we enabled wit
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/ff9812a4-2b26-42d9-949a-159e990245cd" />
+<img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/8d4a1122-787e-4652-95da-6248d9f2d1f1" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to file explorer and browse to C:\inetpub\wwwroot\include
 </p>
 <br />
 
