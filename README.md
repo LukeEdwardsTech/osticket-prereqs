@@ -238,8 +238,9 @@ Press the down arrow of osticket-vm, Sites, Default web site, and click on osTic
 <p>
 <img width="282" height="273" alt="image" src="https://github.com/user-attachments/assets/4f8943d0-75d8-4947-ba19-c940713d59ba" />
 </p>
+<img width="250" height="531" alt="image" src="https://github.com/user-attachments/assets/704330d1-1d7b-42ca-a554-29f687ef272d" />
 <p>
-We now need to turn on the required programs in IIS, so go back to the IIS program and double click PHP Manager
+We now need to turn on the required programs in IIS, so go back to the IIS program and double click PHP Manager, then click Enable or disable an extension
 </p>
 <br />
 
