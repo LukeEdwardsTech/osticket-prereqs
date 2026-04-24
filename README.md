@@ -274,10 +274,13 @@ Refresh the page and it should look like this with the extensions we enabled wit
 <p>
 <img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/ff9812a4-2b26-42d9-949a-159e990245cd" />
 <img width="128" height="32" alt="image" src="https://github.com/user-attachments/assets/7a022fce-49d8-4c71-bf7b-fc4300e858b5" />
+<img width="339" height="101" alt="image" src="https://github.com/user-attachments/assets/f01c7753-67a0-4b70-8b33-437084b67115" />
+<img width="108" height="65" alt="image" src="https://github.com/user-attachments/assets/e3899d1a-76ae-4a01-84f8-89ae24a6b223" />
+<img width="334" height="404" alt="image" src="https://github.com/user-attachments/assets/e6be30d7-2f4d-4605-a48e-e630c507f97f" />
 
 </p>
 <p>
-Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and rename "ost-sampleconfig.php" to "ost-config.php"
+Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and rename "ost-sampleconfig.php" to "ost-config.php". Right click the file and go to Properties,  Security, Advanced, Disable inheritance and Remove all inherited permissions from this object, and click Add 
 </p>
 <br />
 
