@@ -341,7 +341,7 @@ Go back to the original folder for installing files and double click HeidiSQL an
 <img width="422" height="402" alt="image" src="https://github.com/user-attachments/assets/a196451d-d9b7-4d30-8de8-140da51e7cfe" />
 
 <p>
-Click "Skip", then "New". Type root in the username and password
+Click "Skip", then "New". Type root in the User and Password and click "Open"
 </p>
 <br />
 
