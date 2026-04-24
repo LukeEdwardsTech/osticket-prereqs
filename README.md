@@ -273,6 +273,7 @@ Refresh the page and it should look like this with the extensions we enabled wit
 
 <p>
 <img width="404" height="540" alt="image" src="https://github.com/user-attachments/assets/ff9812a4-2b26-42d9-949a-159e990245cd" />
+<img width="128" height="32" alt="image" src="https://github.com/user-attachments/assets/7a022fce-49d8-4c71-bf7b-fc4300e858b5" />
 
 </p>
 <p>
