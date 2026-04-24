@@ -262,7 +262,7 @@ In this page there are 3 extensions that you need to enable by clicking them and
 <p>
   <img width="462" height="245" alt="image" src="https://github.com/user-attachments/assets/d5a94bd5-0deb-4732-9da2-5c5d0a7a6725" />
 (Before)
-<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/7bbd7200-6906-4751-9c3d-db146987d91a" />
+<img width="452" height="246" alt="image" src="https://github.com/user-attachments/assets/51cbc706-54a3-4b61-8f46-1fb22bb383c5" />
 (After)
 </p>
 <p>
