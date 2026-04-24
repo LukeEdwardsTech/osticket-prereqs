@@ -325,10 +325,12 @@ Go back to the osTicket site and click "Continue". Put in your information as yo
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="404" height="184" alt="image" src="https://github.com/user-attachments/assets/fe60a6ce-7641-43b4-a9a4-1f9fd9a6a2a2" />
+<img width="172" height="81" alt="image" src="https://github.com/user-attachments/assets/8c72b8da-c88d-4050-8330-bcf8b583c2b3" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back to the original folder for installing files and double click HeidiSQL and install as needed. Make sure the "Launch HeidiSQL" option is checkmarked.
 </p>
 <br />
 
