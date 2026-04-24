@@ -254,7 +254,7 @@ We now need to turn on the required programs in IIS, so go back to the IIS progr
 <img width="211" height="22" alt="image" src="https://github.com/user-attachments/assets/65fad80a-cd58-49d1-a0e3-40ee5c9aebf3" />
 
 <p>
-In this page there are 3 extensions that you need to enable by clicking them and pressing enable, php_imap.dll, 
+In this page there are 3 extensions that you need to enable by clicking them and pressing enable, php_imap.dll, php_intl.dll, and php_opcache.dll
 </p>
 <br />
 
