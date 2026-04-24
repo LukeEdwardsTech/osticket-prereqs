@@ -365,4 +365,9 @@ Right click "Unnamed", hover over "Create new", and click "Database". Type "osTi
 <p>
 In the osticket web page, fill out the section as shown and the password is root.
 </p>
+
+You can use the following link as a way to access the Admin Panel version, http://localhost/osTicket/scp/login.php
+<p>
+This is the link an end user would use to submit a ticket, http://localhost/osTicket/
+<p>
 <br />
