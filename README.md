@@ -317,8 +317,9 @@ Click on "Select a principle", type "Everyone", click  ok,  click "Full control"
 <p>
 <img width="777" height="661" alt="image" src="https://github.com/user-attachments/assets/77f6b73e-619d-43a6-94a2-6031fc678685" />
 </p>
+<img width="1150" height="1368" alt="image" src="https://github.com/user-attachments/assets/2ece9bf5-4629-42fc-8aa7-caff056e3ee3" />
 <p>
-Go back to the osTicket site and click "Continue"
+Go back to the osTicket site and click "Continue". Put in your information as you need it.
 </p>
 <br />
 
