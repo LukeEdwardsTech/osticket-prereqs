@@ -250,8 +250,8 @@ We now need to turn on the required programs in IIS, so go back to the IIS progr
 </p>
 <img width="216" height="129" alt="image" src="https://github.com/user-attachments/assets/82fe6435-14b5-4a73-902c-6441353fbda0" />
 <img width="211" height="19" alt="image" src="https://github.com/user-attachments/assets/014ef95e-695d-4fdd-879e-e763c4eecb4e" />
-<img width="222" height="24" alt="image" src="https://github.com/user-attachments/assets/1d84a934-8212-4758-9e75-150b175a02ae" />
-<img width="222" height="24" alt="image" src="https://github.com/user-attachments/assets/65fad80a-cd58-49d1-a0e3-40ee5c9aebf3" />
+<img width="211" height="19" alt="image" src="https://github.com/user-attachments/assets/1d84a934-8212-4758-9e75-150b175a02ae" />
+<img width="211" height="19" alt="image" src="https://github.com/user-attachments/assets/65fad80a-cd58-49d1-a0e3-40ee5c9aebf3" />
 
 <p>
 In this page there are 3 extensions that you need to enable by clicking them and pressing enable, php_imap.dll, 
