@@ -224,7 +224,7 @@ We then have to open the folder location as shown in the picture, and copy the u
 
 
 
-<p>\
+<p>
 <img width="856" height="277" alt="image" src="https://github.com/user-attachments/assets/4a392883-b66b-4e68-93c7-c84a5e129f0d" />
 </p>
 <img width="793" height="743" alt="image" src="https://github.com/user-attachments/assets/487f2d24-6323-48cf-9994-88c21df1b82a" />
