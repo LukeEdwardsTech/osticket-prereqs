@@ -305,7 +305,9 @@ Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and renam
 <p>
 <img width="832" height="421" alt="image" src="https://github.com/user-attachments/assets/ddd8389b-ce00-4b5b-8a79-0ae37cb4cd81" />
 <p>
-Click on "Select a principle", type "Everyone", click  ok,  click "Full control" and click ok
+<img width="711" height="473" alt="image" src="https://github.com/user-attachments/assets/3700e071-a2fa-4765-913f-f901e2e75e48" />
+<p>
+Click on "Select a principle", type "Everyone", click  ok,  click "Full control" and click ok. Click Apply then ok
 </p>
 <br />
 
