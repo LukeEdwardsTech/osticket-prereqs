@@ -305,7 +305,7 @@ Go to file explorer and browse to C:\inetpub\wwwroot\osTicket\include\ and renam
 
 </p>
 <p>
-Click on "Select a principle" and type "Everyone" 
+Click on "Select a principle" and type "Everyone"  and click "OK"
 </p>
 <br />
 
