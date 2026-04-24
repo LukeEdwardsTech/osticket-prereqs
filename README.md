@@ -260,10 +260,11 @@ In this page there are 3 extensions that you need to enable by clicking them and
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="498" height="288" alt="image" src="https://github.com/user-attachments/assets/7bbd7200-6906-4751-9c3d-db146987d91a" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Refresh the page and it should look like this with the extensions we enabled with a check mark next to them
 </p>
 <br />
 
